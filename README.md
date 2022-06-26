@@ -1,5 +1,5 @@
 # real-state
-Real-state responsive website
+Real-state responsive website with Dark-mode
 
-Used tehcnology: Gulp
+Used tehcnology: Gulp, ScrollReveal, Swiper
 
